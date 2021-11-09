@@ -27,7 +27,7 @@ window:
     x: 2
     y: 2
 
-  dynamic_padding: false
+  dynamic_padding: true
   # Window decorations
   #
   # Available values:
