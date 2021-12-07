@@ -3,3 +3,5 @@ if status is-interactive
 end
 
 starship init fish | source
+
+set -gx GOPATH (go env GOPATH)
